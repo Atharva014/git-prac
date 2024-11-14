@@ -6,3 +6,6 @@ print("Tuple with integers: ", int_tuple)
 
 mixed_tuple = (4, "Python", 9.3, 4, 9.8)
 print("Tuple with different data types: ", mixed_tuple)
+
+list1 = [1, 2, "Python", "Program", 15.9]
+list2 = ["Amy", "Ryan", "Henry", "Emma"]
